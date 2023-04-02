@@ -1,1 +1,3 @@
-# pymaceuticals-challenge
+# Pymaceuticals Challenge
+
+Included in this repo is a "Pymaceuticals" folder that contains a "data" folder along with a Jupyter Notebook that attempts the following task: given data from a mock pharmaceutical company that recently screened for squamous cell carcinoma (SCC) by testing various drug treatments on mice with SCC tumors, compare their drug, Capomulin, with other treatments. The included Jupyter Notebook contains tables, figures, and a brief analysis from the findings. 
